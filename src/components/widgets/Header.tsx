@@ -1,7 +1,7 @@
 import { component$, useStore } from "@builder.io/qwik";
 import { useContent } from "@builder.io/qwik-city";
 
-import Logo from "~/components/common/Logo";
+import Logo from "~/assets/images/logo.jsx";
 import ToggleTheme from "~/components/common/ToggleTheme";
 import ToggleMenu from "~/components/common/ToggleMenu";
 import IconChevronDown from "../icons/IconChevronDown";
