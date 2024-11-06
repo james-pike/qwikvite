@@ -1,15 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-
-import { component$ } from '@builder.io/qwik';
-
-const Logo = component$(() => {
-  return (
-    
 <svg
    version="1.1"
    id="svg1"
-   width="171.33"
-   height="64.66"
+   width="2056"
+   height="776"
    viewBox="0 0 2056 776"
    sodipodi:docname="PFL+Logo.png"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -73,8 +69,3 @@ const Logo = component$(() => {
     </g>
   </g>
 </svg>
-
-  );
-});
-
-export default Logo;
